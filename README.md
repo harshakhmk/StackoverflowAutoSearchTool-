@@ -12,9 +12,9 @@
 
 ### Bonus Feature
 
-*** Maintains a Dict[str:List] which takes in the obtained error type as string and returns back list of urls suitable for the given error ***
+**  Maintains a Dict[str:List] which takes in the obtained error type as string and returns back list of urls suitable for the given error **
  
 ## Here's a demo of its working
 
-<a href="https://imgflip.com/gif/4tx2qe"> <img src="AutoSearchTool.mp4" alt="Demo Video">  </a>
+<a href="AutoSearchTool.mp4"> <img src="AutoSearchTool.mp4" alt="Demo Video">  </a>
 

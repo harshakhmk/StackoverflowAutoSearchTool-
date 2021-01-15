@@ -17,5 +17,5 @@
 ## Here's a demo of its working
 
 ![Video Link](https://www.youtube.com/watch?v=BcfuomO2tj4)
-![demo](https://github.com/harshakhmk/StackoverflowAutoSearchTool-/blob/main/demo.gif)
+![demo](https://github.com/harshakhmk/StackoverflowAutoSearchTool-/blob/main/AutoSearchTool.gif)
 

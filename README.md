@@ -16,7 +16,5 @@
  
 ## Here's a demo of its working
 
-
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/56113657/104713447-e750e680-5749-11eb-80ac-b127132529e8.mp4" type="video/mp4">
- </video>
+![Demo](https://image.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)
+(https://youtu.be/BcfuomO2tj4)

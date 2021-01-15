@@ -16,5 +16,5 @@
  
 ## Here's a demo of its working
 
-<a href="AutoSearchTool.mp4"> <img src="AutoSearchTool.mp4" alt="Demo Video">  </a>
+<a href="demo.gif"> <img src="demo.gif" alt="Demo Video">  </a>
 

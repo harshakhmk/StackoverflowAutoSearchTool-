@@ -16,5 +16,5 @@
  
 ## Here's a demo of its working
 
-![Demo](https://image.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)
-(https://youtu.be/BcfuomO2tj4)
+[![Demo](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/BcfuomO2tj4)
+

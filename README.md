@@ -16,4 +16,7 @@
  
 ## Here's a demo of its working
 
-![github-small](https://user-images.githubusercontent.com/56113657/104712192-444b9d00-5748-11eb-9e6c-383fd3e2dbdc.mp4)
+
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/56113657/104713447-e750e680-5749-11eb-80ac-b127132529e8.mp4" type="video/mp4">
+ </video>

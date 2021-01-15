@@ -16,5 +16,5 @@
  
 ## Here's a demo of its working
 
-<a href="https://imgflip.com/gif/4tx2qe">Video</a>
+<a href="https://imgflip.com/gif/4tx2qe"> <img src="https://imgflip.com/gif/4tx2qe" alt="Demo Video">  </a>
 
